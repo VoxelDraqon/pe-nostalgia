@@ -1,5 +1,6 @@
 # Pocket Edition Nostalgia
-A resourcepack for Bedrock (coming soon) and Java that brings back some Pocket Edition Alpha textures and models
+A resourcepack for Bedrock (coming soon) and Java that brings back some Pocket Edition Alpha textures and models\
+To download, just use the [release](https://github.com/VoxelDraqon/pe-nostalgia/releases/)
 * Poppy replaced with cyan Rose
 * Stonecutter given with Pocket Edition Alpha model and texture
 * Barrier renamed to Invisible Bedrock (the stuff that forms the border of old-style worlds)
