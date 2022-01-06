@@ -1,0 +1,11 @@
+{
+    "block.minecraft.respawn_anchor": "\"Nether Reactor Core\"",
+    "block.minecraft.spawn.not_valid": "You have no home bed or charged \"nether reactor core\", or it was obstructed",
+    "subtitles.block.respawn_anchor.charge": "\"Nether Reactor Core\" is charged",
+    "subtitles.block.respawn_anchor.deplete": "\"Nether Reactor Core\" depletes",
+    "subtitles.block.respawn_anchor.set_spawn": "\"Nether Reactor Core\" sets spawn",
+    "advancements.nether.charge_respawn_anchor.description": "Charge a \"Nether Reactor Core\" to the maximum",
+    "block.minecraft.poppy": "Rose",
+    "block.minecraft.potted_poppy": "Potted Rose",
+    "block.minecraft.barrier": "Invisible Bedrock"
+}
